@@ -46,5 +46,5 @@ layout: ../layouts/RootPage.astro
 - TypeScript
 
 ### Hardware
-- Keyboard: Keychron Q11
-- Laptop: 14" 2021 M1 MacBook Pro
+- **Keyboard**: Keychron Q11
+- **Laptop**: 14" 2021 M1 MacBook Pro
