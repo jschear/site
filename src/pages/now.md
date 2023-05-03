@@ -16,4 +16,4 @@ Tactically, I'm working on getting productive with:
 - Rust
 - Nix
 
-I'm playing [Dredge](https://www.dredge.game/), and reading [Quarterlife](https://www.penguinrandomhouse.com/books/579928/quarterlife-by-satya-doyle-byock/).
+I'm playing the Dead Space remake and [Dredge](https://www.dredge.game/), and reading [Quarterlife](https://www.penguinrandomhouse.com/books/579928/quarterlife-by-satya-doyle-byock/).
