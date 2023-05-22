@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://jschear.dev',
+	site: 'https://www.jschear.dev',
 	integrations: [mdx(), sitemap()],
 });
