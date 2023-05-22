@@ -10,26 +10,44 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.contact-links {
+				margin-top: 2em;
+			}
+		</style>
 	</head>
 	<body>
 		<Header title={SITE_TITLE} />
 		<main>
-			<p>Hi! I’m Jonathan. Welcome to my page.</p>
-			<p>I’m a programmer living in Brooklyn, NY.</p>
+			<p>
+				Hi! I’m Jonathan. Welcome to my page. I’m a programmer living in
+				Brooklyn, NY.
+			</p>
+
+			<p>
+				Professionally, I’ve worked on mobile applications and developer
+				experience. These days, I’m most interested in programming languages,
+				build systems, and digital signal processing.
+			</p>
+
+			<p>
+				You can reach me at <a href="mailto:hi@jschear.dev">hi@jschear.dev</a>.
+			</p>
 		</main>
 
-		<ContactLink href="https://github.com/jschear">github</ContactLink>
-		<ContactLink href="https://www.linkedin.com/in/jschear/">
-			linkedin
-		</ContactLink>
-		<ContactLink rel="me" href="https://recurse.social/@jschear">
-			mastodon
-		</ContactLink>
-		<ContactLink href="https://staging.bsky.app/profile/jschear.dev">
-			bluesky
-		</ContactLink>
-		<ContactLink href="https://twitter.com/jschear_">twitter</ContactLink>
-
+		<div class="contact-links">
+			<ContactLink href="https://github.com/jschear">github</ContactLink>
+			<ContactLink href="https://www.linkedin.com/in/jschear/">
+				linkedin
+			</ContactLink>
+			<ContactLink rel="me" href="https://recurse.social/@jschear">
+				mastodon
+			</ContactLink>
+			<ContactLink href="https://staging.bsky.app/profile/jschear.dev">
+				bluesky
+			</ContactLink>
+			<ContactLink href="https://twitter.com/jschear_">twitter</ContactLink>
+		</div>
 		<Footer />
 	</body>
 </html>
