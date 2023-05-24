@@ -30,6 +30,7 @@ layout: ../layouts/RootPage.astro
 - Up next
   - Unison
   - Roc
+  - Gleam
 - Comfortable
   - Kotlin
   - Java

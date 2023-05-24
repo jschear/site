@@ -7,7 +7,7 @@ I recently finished a batch at the [Recurse Center](https://www.recurse.com). (I
 - Programming languages
 - Declarative UI frameworks, incremental computation
 - Self-adjusting computation, build systems
-- Confict-free replicated data types
+- Conflict-free replicated data types
 - Audio/DSP programming
 - WebGL (via three.js)
 
