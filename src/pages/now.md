@@ -18,6 +18,6 @@ I also focused on getting productive with a few specific technologies:
 - Rust
 - Nix
 
-I'm playing Tears of the Kingdom (and probably will be for the next year), and reading [Quarterlife](https://www.penguinrandomhouse.com/books/579928/quarterlife-by-satya-doyle-byock/).
+I'm playing Tears of the Kingdom (and probably will be for the next year), and reading [The Water Knife](https://en.wikipedia.org/wiki/The_Water_Knife).
 
 I'm paddling at the [Mongaup](https://kccny.org/locations/mongaup-river/).
