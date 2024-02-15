@@ -4,11 +4,11 @@ layout: ../layouts/RootPage.astro
 
 ### Software
 - **Browser**: Arc ~~Safari~~ ~~Chrome~~
-- **Calendar**: Cron
+- **Calendar**: Notion Calendar ~~Cron~~
 - **Music**: Spotify and Apple Music
 - **Podcasts**: PocketCasts
 - **RSS, newsletters**: Feedbin
-- **RSS reader**: Reeder
+- **RSS reader**: NetNewsWire ~~Reeder~~
 - **Password management**: 1Password
 - **Notes**: Obsidian ~~Reflect~~ ~~Logseq~~ ~~Roam Research~~
 - **Task tracking**: Things ~~Too many to list~~

@@ -3,27 +3,44 @@
 	--font-main: Verdana, sans-serif;
 	--font-secondary: Verdana, sans-serif;
 	--font-scale: 1em;
-	--background-color: #fff;
-	--heading-color: #222;
-	--text-color: #444;
-	--link-color: #3273dc;
-	--visited-color: #8b6fcb;
-	--code-background-color: #f2f2f2;
-	--code-color: #222;
-	--blockquote-color: #222;
+
+	--color-bg-light: #fff;
+	--color-heading-light: #222;
+	--color-text-light: #444;
+	--color-link-light: #3273dc;
+	--color-visited-light: #8b6fcb;
+	--color-code-bg-light: #954d4d;
+	--color-code-light: #222;
+	--color-blockquote-light: #222;
+
+	--color-bg-dark: #121212;
+	--color-heading-dark: #eee;
+	--color-text-dark: #ddd;
+	--color-link-dark: #8cc2dd;
+	--color-visited-dark: #8b6fcb;
+	--color-code-bg-dark: #000;
+	--color-code-dark: #ddd;
+	--color-blockquote-dark: #ccc;
+
+	--color-bg: var(--color-bg-light);
+	--color-heading: var(--color-heading-light);
+	--color-text: var(--color-text-light);
+	--color-link: var(--color-link-light);
+	--color-visited: var(--color-visited-light);
+	--color-code-bg: var(--color-code-bg-light);
+	--color-code: var(--color-code-light);
+	--color-blockquote: var(--color-blockquote-light);
 }
 
-@media (prefers-color-scheme: dark) {
-	:root {
-		--background-color: #121212;
-		--heading-color: #eee;
-		--text-color: #ddd;
-		--link-color: #8cc2dd;
-		--visited-color: #8b6fcb;
-		--code-background-color: #000;
-		--code-color: #ddd;
-		--blockquote-color: #ccc;
-	}
+.dark {
+	--color-bg: var(--color-bg-dark);
+	--color-heading: var(--color-heading-dark);
+	--color-text: var(--color-text-dark);
+	--color-link: var(--color-link-dark);
+	--color-visited: var(--color-visited-dark);
+	--color-code-bg: var(--color-code-bg-dark);
+	--color-code: var(--color-code-dark);
+	--color-blockquote: var(--color-blockquote-dark);
 }
 
 body {
@@ -33,11 +50,11 @@ body {
 	padding: 20px;
 	max-width: var(--width);
 	text-align: left;
-	background-color: var(--background-color);
+	background-color: var(--color-bg);
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	line-height: 1.5;
-	color: var(--text-color);
+	color: var(--color-text);
 }
 
 h1,
@@ -47,11 +64,11 @@ h4,
 h5,
 h6 {
 	font-family: var(--font-main);
-	color: var(--heading-color);
+	color: var(--color-heading);
 }
 
 a {
-	color: var(--link-color);
+	color: var(--color-link);
 	cursor: pointer;
 	text-decoration: none;
 }
@@ -66,7 +83,7 @@ nav a {
 
 strong,
 b {
-	color: var(--heading-color);
+	color: var(--color-heading);
 }
 
 button {
@@ -94,14 +111,14 @@ img {
 code {
 	font-family: monospace;
 	padding: 2px;
-	background-color: var(--code-background-color);
-	color: var(--code-color);
+	background-color: var(--color-code-bg);
+	color: var(--color-code);
 	border-radius: 3px;
 }
 
 blockquote {
 	border-left: 1px solid #999;
-	color: var(--code-color);
+	color: var(--color-code);
 	padding-left: 20px;
 	font-style: italic;
 }
