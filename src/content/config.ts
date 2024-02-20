@@ -19,14 +19,4 @@ const blog = defineCollection({
 	}),
 });
 
-const notes = defineCollection({
-	schema: z.object({
-		title: z.string(),
-		pubDate: z
-			.string()
-			.or(z.date())
-			.transform((val) => new Date(val))
-	}),
-});
-
-export const collections = { blog, notes };
+export const collections = { blog };
