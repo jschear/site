@@ -7,7 +7,7 @@ import MarkdownIt from 'markdown-it';
 const parser = new MarkdownIt();
 
 export async function GET(context: any) {
-	const posts = await getCollection('blog');
+	const posts = await getCollection("blog", ({ data }) => !data?.draft);
 
 	const items = posts
 		.map((post) => ({
