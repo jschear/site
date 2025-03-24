@@ -5,9 +5,10 @@ import Footer from "../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
+    <script is:inline src="/_vercel/insights/script.js"></script>
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <style>
       body :global(del) {
