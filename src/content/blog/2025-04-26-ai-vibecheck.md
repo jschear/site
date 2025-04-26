@@ -12,7 +12,7 @@ One thing that drew me to computing in the first place was the sense that, howev
 
 LLMs are closer to magic. Unless I've missed some new development in interpretability, you can't stare at the matrices powering them to figure out _why_ a model has given you a certain response. If you're having trouble with a tool, the solution is fuzzy: try a different model; try to stuff more relevant code in the context window; IDK, have you tried writing your prompt in all caps or asking more nicely? I would find it frustrating to be responsible for the quality of such a system. Maybe [someone](https://www.distributional.com) will figure out how to make useful assertions about the quality of their output.
 
-Nondeterminism isn't new: probabilistic data structures are useful, and everything these days is asynchronous and distributed and horrifying complex. But do we have to inject _more_ chaos into everything? I am heartened by newer tools that use LLMs to write a script or plan for invoking deterministic tools.
+Nondeterminism isn't new: probabilistic data structures are useful, and everything these days is asynchronous and distributed and horrifyingly complex. But do we have to inject _more_ chaos into everything? I am heartened by newer tools that use LLMs to write a script or plan for invoking deterministic tools.
 
 Also, just an aesthetic objection: dealing with tools that are confidently and cheerily wrong is annoying! Have some shame!
 
