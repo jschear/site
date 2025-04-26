@@ -2,6 +2,8 @@
 layout: ../layouts/RootPage.astro
 ---
 
-I work at Block on iOS developer experience.
+I work at Block on iOS developer experience. I spend a lot of time wrestling with [Bazel](https://bazel.build/).
 
-I'm working on an [iOS app](/blog/2023-05-30-ios-focus/).
+I'm running a half marathon in April 2025.
+
+I'm reading Never Let Me Go.

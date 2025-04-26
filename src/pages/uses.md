@@ -4,40 +4,40 @@ layout: ../layouts/RootPage.astro
 
 ### Software
 - **Browser**: Arc ~~Safari~~ ~~Chrome~~
-- **Calendar**: Notion Calendar ~~Cron~~
+- **Calendar**: Google Calendar ~~Notion Calendar~~ ~~Cron~~
 - **Music**: Spotify and Apple Music
-- **Podcasts**: PocketCasts
+- **Podcasts**: Pocket Casts
 - **RSS, newsletters**: Feedbin
 - **RSS reader**: NetNewsWire ~~Reeder~~
 - **Password management**: 1Password
 - **Notes**: Obsidian ~~Reflect~~ ~~Logseq~~ ~~Roam Research~~
 - **Task tracking**: Things ~~Too many to list~~
-- **Terminal**: alacritty, zsh, tmux
+- **Terminal**: ghostty, zsh ~~alacritty~~ ~~tmux~~
 - **Launcher, hotkeys, automation, window management**: Raycast ~~Alfred~~ ~~Rectangle~~
-- **Package management**: nix, homebrew
+- **Package management**: mise, homebrew ~~nix~~
 - **Build**: bazel
-- **Editing**
-  - VSCode
-  - IntelliJ suite
-  - Zed
+- **Editing**: VSCode
 
 ### Programming Languages
-- Learning
+- For dollars
+  - Kotlin
+  - Java
+  - Python, Starlark
+  - Go
+  - TypeScript
+  - Shell
+  - Ruby
+- For fun
   - Rust
   - OCaml
   - Haskell
   - Elixir
-- Up next
-  - Unison
   - Roc
-  - Gleam
-- Comfortable
-  - Kotlin
-  - Java
-  - Python
-  - Go
-  - TypeScript
 
 ### Hardware
 - **Keyboard**: Keychron Q11
 - **Laptop**: 14" 2021 M1 MacBook Pro
+
+### Whitewater Kayaking
+- Jackson Rockstar V
+- WaveSport Fuse 56
