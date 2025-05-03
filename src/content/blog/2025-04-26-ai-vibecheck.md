@@ -22,6 +22,6 @@ LLM tools are great at creating greenfield, prototype apps. I support the democr
 
 But some of the excitement around AI tools feels like it's trying to devalue software engineering broadly. If a CEO can clone a SaaS app in a few days, who needs those highly-paid engineers? Part of what I love about writing software is understanding a topic deeply and crafting something that will stand the test of time, and I think that will still require deep expertise.
 
-There's undoubtedly some "kids these days" energy here -- people have long made similar arguments whenever a new technology makes the practice of programming more approachable. _Real_ engineers write in assembly code. How can you call yourself a programmer if you've never done manual memory management? These web developers are ruining the desktop with their Electron apps.
+There's undoubtedly some "kids these days" energy here -- people have long made similar arguments whenever a new technology makes the practice of programming more approachable. "_Real_ engineers write in assembly code." "How can you call yourself a programmer if you've never done manual memory management?" "These web developers are ruining the desktop with their Electron apps." I don't want to gatekeep software development.
 
 I just hope that the vibe-coders still have curiosity about the systems they're building on top of. In the near future, I see a lot of haphazardly built software, in desperate need of people to understand and maintain it. Maybe not all that different from today.
