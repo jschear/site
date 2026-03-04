@@ -39,5 +39,5 @@ layout: ../layouts/RootPage.astro
 - **Laptop**: 14" 2023 M3 Max MacBook Pro
 
 ### Whitewater Kayaking
-- Jackson Rocketer V
+- Jackson Rockstar V
 - Pyranha Ripper 2
