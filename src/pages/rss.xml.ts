@@ -14,7 +14,7 @@ export async function GET(context: any) {
 			...post.data,
 			// Note: this will not process components or JSX expressions in MDX files.
 			content: sanitizeHtml(parser.render(post.body)),
-			link: `/blog/${post.slug}/`,
+			link: `/blog/${post.id}/`,
 		}))
 		.sort((a, b) => {
 			return b.pubDate.getTime() - a.pubDate.getTime();
