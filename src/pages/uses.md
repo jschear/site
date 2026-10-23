@@ -3,7 +3,7 @@ layout: ../layouts/RootPage.astro
 ---
 
 ### Software
-- **Browser**: Arc ~~Safari~~ ~~Chrome~~
+- **Browser**: Chrome, with vertical tabs (finally) ~~Arc~~ ~~Safari~~ ~~Chrome~~
 - **Calendar**: Google Calendar ~~Notion Calendar~~ ~~Cron~~
 - **Music**: Apple Music
 - **Podcasts**: Pocket Casts
@@ -11,7 +11,7 @@ layout: ../layouts/RootPage.astro
 - **RSS reader**: NetNewsWire ~~Reeder~~
 - **Password management**: 1Password
 - **Notes**: Obsidian ~~Reflect~~ ~~Logseq~~ ~~Roam Research~~
-- **Task tracking**: Todoist ~~Things~~
+- **Task tracking**: A text file (in Obsidian) and a physical notebook ~~Todoist~~ ~~Things~~
 - **Terminal**: ghostty, zsh ~~alacritty~~ ~~tmux~~
 - **Launcher, hotkeys, automation, window management**: Raycast ~~Alfred~~ ~~Rectangle~~
 - **Package management**: mise, homebrew ~~nix~~
@@ -36,8 +36,9 @@ layout: ../layouts/RootPage.astro
 
 ### Hardware
 - **Keyboard**: Keychron Q11
-- **Laptop**: 14" 2023 M3 Max MacBook Pro
+- **Laptop**: 13" 2026 M5 MacBook Air
 
 ### Whitewater Kayaking
-- Jackson Rockstar V
-- Pyranha Ripper 2
+- Half slice: Pyranha Ripper 2
+- Creek boat: Waka Manu
+- Full slice: Dagger Supernova

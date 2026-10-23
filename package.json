@@ -11,13 +11,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^5.0.2",
-    "@astrojs/rss": "^4.0.17",
-    "@astrojs/sitemap": "^3.7.1",
-    "@types/markdown-it": "^12.2.3",
-    "@types/sanitize-html": "^2.11.0",
-    "astro": "^6.0.8",
-    "markdown-it": "^14.1.1",
-    "sanitize-html": "^2.13.0"
+    "@astrojs/mdx": "^8.1.1",
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3.7.4",
+    "@types/markdown-it": "^14.2.0",
+    "@types/sanitize-html": "^2.16.2",
+    "astro": "^7.4.2",
+    "markdown-it": "^15.0.3",
+    "sanitize-html": "^2.18.1"
   }
 }
